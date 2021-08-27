@@ -38,8 +38,8 @@ margin-right: 20px ;
     margin-right: 10px;
 }
 .logos-img{
-    height: 35px;
-    width: 35px;
+    height: 30px;
+    width: 30px;
 }
 .pin-img {
     margin-right: 10px;
@@ -115,14 +115,17 @@ h1 {
 
 
   .table{
-   background-image: url("/img/list-bg.png") ;
-    background-repeat: no-repeat;
-    height: 400px ;
+   background-repeat: no-repeat;
+   height: 400px;
    font-family: 'Patrick Hand', cursive;
    font-size: 1.75rem;
    color: brown;
-   padding-left: 300px;
+   padding-left: 100px;
+   padding-top: 40px;
    margin-top: 100px;
+   background-size: 1000px 400px;
+   margin-left: 200px;
+   margin-bottom: 100px;
 }
    
     
@@ -193,7 +196,7 @@ font-weight: 300;
 
  display: inline-block;
  border-width: 2px;
-    width: 47%;
+    width: 46%;
   }
 
 
